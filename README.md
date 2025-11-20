@@ -1,6 +1,6 @@
-# PDF Editor Professional
+# Apryse client-side PDF editing for in-browser content edits - (cracked - LOGO)
 
-A powerful and feature-rich PDF editor built with WebViewer technology. This application provides comprehensive tools for viewing, editing, and annotating PDF documents directly in your browser.
+Apryse powerful and feature-rich PDF editor built with WebViewer technology. This application provides comprehensive tools for viewing, editing, and annotating PDF documents directly in your browser.
 
 ## Features
 
